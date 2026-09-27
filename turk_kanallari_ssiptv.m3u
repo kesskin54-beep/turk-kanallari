@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TRT 1" group-title="Türk Kanalları",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="ATV" group-title="Türk Kanalları",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-name="KANAL D" group-title="Türk Kanalları",KANAL D
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
+#EXTINF:-1 tvg-name="STAR TV" group-title="Türk Kanalları",STAR TV
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:-1 tvg-name="SHOW TV" group-title="Türk Kanalları",SHOW TV
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#EXTINF:-1 tvg-name="NOW" group-title="Türk Kanalları",NOW
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-name="TV8" group-title="Türk Kanalları",TV8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-name="KANAL 7" group-title="Türk Kanalları",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-name="SÖZCÜ TV" group-title="Türk Kanalları",SÖZCÜ TV
+https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="NTV" group-title="Türk Kanalları",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+#EXTINF:-1 tvg-name="HALK TV" group-title="Türk Kanalları",HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1 tvg-name="BEYAZ TV" group-title="Türk Kanalları",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 tvg-name="360 TV" group-title="Türk Kanalları",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 tvg-name="TRT HABER" group-title="Türk Kanalları",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT TÜRK" group-title="Türk Kanalları",TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
